@@ -291,16 +291,16 @@ a.navbar-brand {
     color: #EEE;
 
     &:hover {
-      color: $primary !important;
+      color: $secondary !important;
     }
   }
 
   li.active a {
     background: darken($primary, 10%);
-    color: $background !important;
+    color: $secondary !important;
 
     &:hover {
-      color: $primary !important;
+      color: $secondary !important;
     }
   }
 }
