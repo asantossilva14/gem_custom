@@ -291,7 +291,7 @@ a.navbar-brand {
     color: #EEE;
 
     &:hover {
-      color: $secondary !important;
+      color: $primary !important;
     }
   }
 
@@ -300,7 +300,7 @@ a.navbar-brand {
     color: $background !important;
 
     &:hover {
-      color: $secondary !important;
+      color: $primary !important;
     }
   }
 }
